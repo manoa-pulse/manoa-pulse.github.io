@@ -1,11 +1,5 @@
 ---
-layout: essay
-type: essay
 title: "Manoa Pulse"
-date: 2026-03-30
-labels:
-  - Software Engineering
-  - Nextjs
 ---
 
 By Oscar Tio, Sebastian Wheelehan, Nathan Wong
