@@ -33,8 +33,14 @@ Manoa Pulse is a web-based platform that allows students to view and share real-
 #### Pulse Feed
 ![Pulse Feed](img/pulse-feed.png)
 
+#### Location Page
+![Location Page](img/location.png)
+
 #### Specific Location Busyness Details
 ![Hamilton](img/Hamilton-mockup.png)
+
+#### Profile
+![Profile](img/profile.png)
 
 ---
 
