@@ -24,6 +24,15 @@ Manoa Pulse is a web-based platform that allows students to view and share real-
 - [GitHub Organization](https://github.com/manoa-pulse)  
 - GitHub Pages: [Project Site](https://manoa-pulse.github.io)  
 
+
+### Current Progress
+
+#### Landing Page
+![Landing Page](img/landing-page.png)
+
+#### Pulse Feed
+![Pulse Feed](img/pulse-feed.png)
+
 ---
 
 ## User Guide
@@ -78,7 +87,7 @@ Manoa Pulse is a web-based platform that allows students to view and share real-
 
 ### M2
 
-- [M2] (https://github.com/orgs/manoa-pulse/projects/3/views/2)
+- [M2](https://github.com/orgs/manoa-pulse/projects/3/views/2)
 
 ---
 
