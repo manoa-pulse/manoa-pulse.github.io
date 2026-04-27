@@ -94,7 +94,7 @@ Manoa Pulse is a web-based platform that allows students to view and share real-
 
 ### M1
 
-- [M1](https://github.com/orgs/manoa-pulse/projects/1/views/1)
+- [M1](https://github.com/orgs/manoa-pulse/projects/1)
 - Created GitHub organization  
 - Set up GitHub Pages  
 - Designed concept  
@@ -102,7 +102,10 @@ Manoa Pulse is a web-based platform that allows students to view and share real-
 
 ### M2
 
-- [M2](https://github.com/orgs/manoa-pulse/projects/3/views/2)
+- [M2](https://github.com/orgs/manoa-pulse/projects/3)
+
+### M3
+- [M3](https://github.com/orgs/manoa-pulse/projects/5)
 
 ---
 
