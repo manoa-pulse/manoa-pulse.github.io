@@ -141,7 +141,7 @@ npm run dev
 - [M2](https://github.com/orgs/manoa-pulse/projects/3)
 - Create interactive heat map
 - Each location has a specific page
-- Pulse feed, heat map, location pages pull data from PostgreSQL database
+- Pulse feed, heat map, & specific location pages pull data from PostgreSQL database
 - Submit pulse update has details guiding user on what busyness means
 
 ### M3
