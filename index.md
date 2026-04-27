@@ -42,6 +42,12 @@ Manoa Pulse is a web-based platform that allows students to view and share real-
 #### Profile
 ![Profile](img/profile.png)
 
+#### User Submission
+![User Submission](img/user-submission.png)
+
+#### Heatmap
+![Heatmap](img/heatmap.png)
+
 ---
 
 ## User Guide
