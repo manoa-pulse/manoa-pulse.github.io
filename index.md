@@ -14,7 +14,7 @@ By Oscar Tio, Sebastian Wheelehan, Nathan Wong
 Students often struggle to find available spaces on campus for studying, eating, or meeting. Popular locations such as libraries, dining areas, and study lounges can become overcrowded, leading to wasted time and frustration. Currently, there is no centralized way for students to check how busy a location is before going there.
 
 **Solution:**  
-Manoa Pulse is a web-based platform that allows students to view and share real-time crowd levels at various locations across the University of Hawaiʻi at Mānoa campus. By combining user-submitted updates with aggregated data, the system provides a live estimate of how busy a place is.
+Manoa Pulse is a web-based platform that allows students to view and provides near real-time estimates based on recent user-submitted updates at various locations across the University of Hawaiʻi at Mānoa campus. By combining user-submitted updates with aggregated data, the system provides a live estimate of how busy a place is. The platform also includes an interactive campus heat map that visualizes busyness levels using color-coded zones.
 
 ---
 
@@ -31,13 +31,13 @@ Manoa Pulse is a web-based platform that allows students to view and share real-
 ![Landing Page](img/landing-page.png)
 
 #### Pulse Feed
-![Pulse Feed](img/pulse-feed.png)
+![Pulse Feed](img/pulse-feed-M2.png)
 
 #### Location Page
 ![Location Page](img/location.png)
 
 #### Specific Location Busyness Details
-![Hamilton](img/Hamilton-mockup.png)
+![Hamilton](img/Hamilton-M2.png)
 
 #### Profile
 ![Profile](img/profile.png)
@@ -53,10 +53,10 @@ Manoa Pulse is a web-based platform that allows students to view and share real-
 ## User Guide
 
 1. Create an account and log in  
-2. Browse campus locations  
-3. View busyness levels  
-4. Submit updates  
-5. Check trends  
+2. View live busyness levels on the Pulse Feed  
+3. Explore the interactive heat map  
+4. Click a location for detailed information  
+5. Submit updates to contribute data 
 
 ---
 
@@ -139,6 +139,10 @@ npm run dev
 ### M2
 
 - [M2](https://github.com/orgs/manoa-pulse/projects/3)
+- Create interactive heat map
+- Each location has a specific page
+- Pulse feed, heat map, location pages pull data from PostgreSQL database
+- Submit pulse update has details guiding user on what busyness means
 
 ### M3
 - [M3](https://github.com/orgs/manoa-pulse/projects/5)
