@@ -60,6 +60,42 @@ Manoa Pulse is a web-based platform that allows students to view and share real-
 
 ---
 
+## Developer Guide
+1. Clone the project's Github repository
+```bash
+git clone https://github.com/manoa-pulse/manoa-pulse
+cd manoa-pulse
+```
+
+2. Install dependencies
+```bash
+npm install
+```
+
+3. Create postgres db
+```bash
+createdb manoa_pulse
+```
+
+4. Set up .env file
+```bash
+cp sample.env .env
+```
+You will need to modify your `AUTH_URL` to point to the URL of your app and add your username, password, and the db name to your `DATABASE_URL`.
+
+5. Set up database
+```bash
+npx prisma migrate dev
+npx prisma generate
+npm run seed
+```
+
+6. Run web app
+```bash
+npm run dev
+```
+
+---
 
 ### Technologies
 
