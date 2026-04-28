@@ -20,7 +20,7 @@ Manoa Pulse is a web-based platform that allows students to view and provides ne
 
 ## Deployment
 
-- Live App: [Manoa Pulse](https://manoa-pulse-one.vercel.app/)
+- Live App: [Manoa Pulse](https://manoa-pulse-one.vercel.app/) [![CI Status](https://github.com/manoa-pulse/manoa-pulse/actions/workflows/ci.yml/badge.svg)](https://github.com/manoa-pulse/manoa-pulse/actions/workflows/ci.yml)
 - [GitHub Organization](https://github.com/manoa-pulse)  
 - GitHub Pages: [Project Site](https://manoa-pulse.github.io)  
 
