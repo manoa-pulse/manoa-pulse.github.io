@@ -31,13 +31,13 @@ Manoa Pulse is a web-based platform that allows students to view and provides ne
 ![Landing Page](img/landing-page.png)
 
 #### Pulse Feed
-![Pulse Feed](img/pulse-feed-M2.png)
+![Pulse Feed](img/pulse-feed-M3.png)
 
 #### Location Page
 ![Location Page](img/location.png)
 
 #### Specific Location Busyness Details
-![Hamilton](img/Hamilton-M2.png)
+![Hamilton](img/Hamilton-M3.png)
 
 #### Profile
 ![Profile](img/profile.png)
@@ -47,6 +47,9 @@ Manoa Pulse is a web-based platform that allows students to view and provides ne
 
 #### Heatmap
 ![Heatmap](img/heatmap.png)
+
+#### Admin Panel
+![Admin](img/admin.png)
 
 ---
 
