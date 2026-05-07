@@ -149,6 +149,10 @@ npm run dev
 
 ### M3
 - [M3](https://github.com/orgs/manoa-pulse/projects/5)
+- Made general UI improvements
+- Users can upload profile pictures and set a name
+- Shows opening and closing hours for each location
+- Admin panel shows all submissions & users
 
 ---
 
