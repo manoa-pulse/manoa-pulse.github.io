@@ -129,6 +129,18 @@ npm run dev
 
 ---
 
+## Community Feedback
+
+To evaluate Manoa Pulse, community members were asked to try the application and provide feedback on what they liked, how useful they found it, and what improvements they would suggest. Overall, the responses were positive. Users liked that the website was simple, minimalistic, and easy to understand. The map view was the most commonly praised feature because it clearly showed campus activity levels across different locations. Several users also mentioned that the Submit Update feature was useful because it allows students to contribute real-time information.
+
+Community members also found the application useful for planning where to go on campus. Users explained that being able to check busyness levels before visiting a location could help them avoid crowded dining areas, find available study spaces, and save time between classes. This feedback supports the main goal of Manoa Pulse, which is to help students make better decisions about where to study, eat, or meet based on current campus activity.
+
+The feedback also identified areas for improvement. One user noted that latecy was slow and hard to tell if the website is responding correctly to user interaction. Users also suggested adding a favorite or pinned locations feature, providing more detailed descriptions for each location, and expanding the number of tracked campus locations. Suggested additions included more study areas, food locations, and other campus buildings. These suggestions provide clear direction for future development and would make Manoa Pulse more useful for a wider range of students.
+
+Changes were made since receiving feedback. Bookmarks and a loading spinner were implemented as a result of the community feedback.
+
+---
+
 ## Development History
 
 ### M1
